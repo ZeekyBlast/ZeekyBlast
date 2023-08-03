@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am zeeky I do discord bot and other projects
 
-Feel free to contact me at: zeekyblast
+Feel free to contact me at: zeekyblast on discord
 
 I'm currently working on a discord bot for games and info on them
 
