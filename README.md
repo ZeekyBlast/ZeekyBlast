@@ -1,23 +1,12 @@
-### Hi there 👋
-I am zeeky I do discord bot and other projects
+### Hi, I'm Zeeky 👋
 
-Feel free to contact me at: zeekyblast on discord
+I build bots, tools and small games, mostly in TypeScript, with some C#, Python and Java along the way.
 
-I'm currently working on a discord bot for games and info on them
+**What I'm working on**
 
-Anyway idk why u reading this I am no one big so have a nice day :)
+- 🤖 **[Vela](https://www.velabot.xyz/)** — my Discord bot, currently being ported to [Stoat](https://stoat.chat) (formerly Revolt)
+- 🧰 **[stoatkit](https://github.com/ZeekyBlast/stoatkit)** — a Stoat bot framework with discord.js-style ergonomics and zero runtime dependencies. `npm i stoatkit`
+- 🎲 **[LimbusCalculator](https://github.com/ZeekyBlast/LimbusCalculator)** — exact clash odds and damage math for Limbus Company, plus a Refraction Railway planner
+- 🎣 **[GPO-Fishing-Macro](https://github.com/ZeekyBlast/GPO-Fishing-Macro)** — auto-fishing for Grand Piece Online: screen capture, color detection and a PID controller behind a C# (WPF) UI
 
-<!--
-**ZeekyBlast/ZeekyBlast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Reach me:** `zeekyblast` on Discord
